@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: #add8e6; /* light blue background */
+  background: #add8e6; 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,7 +18,7 @@ h1 {
 }
 
 .big-label {
-  font-size: 2em;   /* bigger font */
+  font-size: 2em;   
   font-weight: bold;
   color: #333;
 }
@@ -28,14 +28,14 @@ h1 {
 }
 
 #countdown {
-  display: flex;              /* horizontal row */
-  justify-content: center;    /* center horizontally */
+  display: flex;              
+  justify-content: center;    
   align-items: center;
   gap: 20px;
 }
 
 .time-box {
-  background: white;          /* white clock boxes */
+  background: white;       
   color: #333;
   padding: 20px;
   border-radius: 10px;
